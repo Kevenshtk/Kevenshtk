@@ -1,6 +1,6 @@
 ### Olá, Eu sou Keven.
 
-<div align="center">
+<div>
   <a href="https://github.com/Kevenshtk">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Kevenshtk&show_icons=true&theme=dark">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevenshtk&layout=compact&langs_count=16&theme=dark">
