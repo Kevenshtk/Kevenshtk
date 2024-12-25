@@ -32,12 +32,12 @@
   
   <div align="center">
     <h3>Tecnologias:</h3>
-     <img align="center" src="https://skillicons.dev/icons?i=html,sass,js,react,npm,nodejs" alt="icons"/>
+     <img align="center" src="https://skillicons.dev/icons?i=html,sass,js,react,nodejs" alt="icons"/>
   </div>
   <div align="center">
     <h3>Ferramentas:</h3>
     <div>
-      <img align="center" src="https://skillicons.dev/icons?i=vscode,git,github,ps" alt="icons"/>
+      <img align="center" src="https://skillicons.dev/icons?i=vscode,git,github,npm,ps" alt="icons"/>
     </div>
   </div>
 </section>
