@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&repeat=false&width=435&lines=Ol%C3%A1+sou+Keven%2C+Desenvolvedor+Web.)](https://git.io/typing-svg)
 
 <h3>Sobre</h3>
-<p>Olá! Meu nome é Keven, tenho 22 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Lins e sou formado como Técnico em Informática pela Etec de Lins.</p>
+<p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Lins e sou formado como Técnico em Informática pela Etec de Lins.</p>
 
 <p>Desde que conheci o mundo da programação em 2018, venho aprimorando minhas habilidades e construindo projetos que reforçam meu aprendizado. Tenho experiência com SASS, JavaScript, React, buscando sempre aplicar boas práticas de desenvolvimento, para me tornar um desenvolvedor web completo.</p>
 <br>
