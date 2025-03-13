@@ -20,6 +20,9 @@
       <a href="https://github.com/Kevenshtk/cronicas-de-calcularia" target="_blank">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=cronicas-de-calcularia&theme=tokyonight&hide_border=true">
         </a>
+      <a href="https://github.com/Kevenshtk/Restaurant" target="_blank">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Restaurant&theme=tokyonight&hide_border=true">
+        </a>
     </div>
   </div>
 </section>
