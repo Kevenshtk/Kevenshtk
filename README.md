@@ -23,6 +23,9 @@
       <a href="https://github.com/Kevenshtk/Restaurant" target="_blank">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Restaurant&theme=tokyonight&hide_border=true">
         </a>
+      <a href="https://github.com/Kevenshtk/Pokedex" target="_blank">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Pokedex&theme=tokyonight&hide_border=true">
+        </a>
     </div>
   </div>
 </section>
