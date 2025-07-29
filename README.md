@@ -3,7 +3,7 @@
 <h3>Sobre</h3>
 <p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Lins e sou formado como Técnico em Informática pela Etec de Lins.</p>
 
-<p>Desde que conheci o mundo da programação em 2018, venho aprimorando minhas habilidades e construindo projetos que reforçam meu aprendizado. Tenho experiência com SASS, JavaScript, React, buscando sempre aplicar boas práticas de desenvolvimento, para me tornar um desenvolvedor web completo.</p>
+<p>Desde que conheci o mundo da programação em 2018, venho aprimorando minhas habilidades e construindo projetos que reforçam meu aprendizado. Tenho experiência com JavaScript, React, buscando sempre aplicar boas práticas de desenvolvimento, para me tornar um desenvolvedor web completo.</p>
 <br>
 
 
