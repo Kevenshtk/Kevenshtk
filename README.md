@@ -41,7 +41,7 @@
   
   <div align="center">
     <h3>Tecnologias:</h3>
-     <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,react,styledcomponents,nodejs" alt="icons"/>
+     <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,styledcomponents,nodejs" alt="icons"/>
   </div>
   <div align="center">
     <h3>Ferramentas:</h3>
