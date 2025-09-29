@@ -20,8 +20,11 @@
       <a href="https://github.com/Kevenshtk/cronicas-de-calcularia" target="_blank">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=cronicas-de-calcularia&theme=tokyonight&hide_border=true">
         </a>
-      <a href="https://github.com/Kevenshtk/Restaurant" target="_blank">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Restaurant&theme=tokyonight&hide_border=true">
+      <a href="https://github.com/Kevenshtk/Portfolio" target="_blank">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Portfolio&theme=tokyonight&hide_border=true">
+        </a>
+      <a href="https://github.com/Kevenshtk/Portfolio-academico" target="_blank">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Portfolio-academico&theme=tokyonight&hide_border=true">
         </a>
       <a href="https://github.com/Kevenshtk/Pokedex" target="_blank">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Pokedex&theme=tokyonight&hide_border=true">
@@ -41,7 +44,7 @@
   
   <div align="center">
     <h3>Tecnologias:</h3>
-     <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,jquery,react,styledcomponents,nodejs" alt="icons"/>
+     <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,jquery,react,next,styledcomponents,tailwind,nodejs" alt="icons"/>
   </div>
   <div align="center">
     <h3>Ferramentas:</h3>
