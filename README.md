@@ -17,20 +17,24 @@
     <div align="left">
       <br>
       <h3>Projetos:</h3>
-      <a href="https://github.com/Kevenshtk/cronicas-de-calcularia" target="_blank">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=cronicas-de-calcularia&theme=tokyonight&hide_border=true">
-        </a>
       <a href="https://github.com/Kevenshtk/Portfolio" target="_blank">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Portfolio&theme=tokyonight&hide_border=true">
-        </a>
-      <a href="https://github.com/Kevenshtk/Portfolio-academico" target="_blank">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Portfolio-academico&theme=tokyonight&hide_border=true">
         </a>
       <a href="https://github.com/Kevenshtk/Pokedex" target="_blank">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Pokedex&theme=tokyonight&hide_border=true">
         </a>
       <a href="https://github.com/Kevenshtk/Electrum" target="_blank">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Electrum&theme=tokyonight&hide_border=true">
+        </a>
+        <h4>Acadêmicos:</h4>
+              <a href="https://github.com/Kevenshtk/cronicas-de-calcularia" target="_blank">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=cronicas-de-calcularia&theme=tokyonight&hide_border=true">
+        </a>
+      <a href="https://github.com/Kevenshtk/cronicas-de-calcularia" target="_blank">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=jogo-das-pilhas&theme=tokyonight&hide_border=true">
+        </a>
+      <a href="https://github.com/Kevenshtk/Portfolio-academico" target="_blank">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Portfolio-academico&theme=tokyonight&hide_border=true">
         </a>
     </div>
   </div>
