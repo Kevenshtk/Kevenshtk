@@ -30,7 +30,7 @@
               <a href="https://github.com/Kevenshtk/cronicas-de-calcularia" target="_blank">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=cronicas-de-calcularia&theme=tokyonight&hide_border=true">
         </a>
-      <a href="https://github.com/Kevenshtk/cronicas-de-calcularia" target="_blank">
+      <a href="https://github.com/Kevenshtk/jogo-das-pilhas" target="_blank">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=jogo-das-pilhas&theme=tokyonight&hide_border=true">
         </a>
       <a href="https://github.com/Kevenshtk/Portfolio-academico" target="_blank">
