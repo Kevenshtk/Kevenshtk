@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&repeat=false&width=435&lines=Ol%C3%A1+sou+Keven%2C+Desenvolvedor+Web.)](https://git.io/typing-svg)
 
 <h3>Sobre</h3>
-<p>Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec de Lins e sou formado como Técnico em Informática pela Etec de Lins.</p>
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Lins e formado como Técnico em Informática. Desde 2018 venho construindo uma base sólida em desenvolvimento web por meio de projetos pessoais e acadêmicos, sempre focado em criar interfaces modernas, organizadas e eficientes.</p>
 
-<p>Desde que conheci o mundo da programação em 2018, venho aprimorando minhas habilidades e construindo projetos que reforçam meu aprendizado. Tenho experiência com JavaScript, React, buscando sempre aplicar boas práticas de desenvolvimento, para me tornar um desenvolvedor web completo.</p>
+<p>Possuo conhecimento em HTML5, CSS3 (SASS), JavaScript (ES6+) e React, aplicando essas tecnologias na prática em projetos presentes no meu portfólio. Atualmente, estou ampliando minhas habilidades estudando Jest (testes unitários), Docker, TypeScript, TailwindCSS e Next.js, buscando evoluir como desenvolvedor e acompanhar as demandas do mercado.</p>
 <br>
 
 
@@ -48,12 +48,12 @@
   
   <div align="center">
     <h3>Tecnologias:</h3>
-     <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,jquery,react,next,styledcomponents,tailwind,nodejs" alt="icons"/>
+     <img align="center" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,jquery,react,next,styledcomponents,tailwind" alt="icons"/>
   </div>
   <div align="center">
     <h3>Ferramentas:</h3>
     <div>
-      <img align="center" src="https://skillicons.dev/icons?i=vscode,git,github,npm,postman" alt="icons"/>
+      <img align="center" src="https://skillicons.dev/icons?i=vscode,git,github,npm,postman,docker,jest" alt="icons"/>
     </div>
   </div>
 </section>
