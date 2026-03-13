@@ -53,7 +53,7 @@
   <div align="center">
     <h3>Ferramentas:</h3>
     <div>
-      <img align="center" src="https://skillicons.dev/icons?i=vscode,git,github,npm,postman,docker,jest" alt="icons"/>
+      <img align="center" src="https://skillicons.dev/icons?i=vscode,git,github,npm,postman,docker,jest,figma" alt="icons"/>
     </div>
   </div>
 </section>
