@@ -1,9 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&repeat=false&width=435&lines=Ol%C3%A1+sou+Keven%2C+Desenvolvedor+Web.)](https://git.io/typing-svg)
 
 <h3>Sobre</h3>
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Lins e formado como Técnico em Informática. Desde 2018 venho construindo uma base sólida em desenvolvimento web por meio de projetos pessoais e acadêmicos, sempre focado em criar interfaces modernas, organizadas e eficientes.</p>
+<p>Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Lins e formado como Técnico em Informática pela Etec Lins. Tenho direcionado minha trajetória para o desenvolvimento Front-End, buscando criar interfaces modernas, responsivas e intuitivas que proporcionem uma boa experiência ao usuário.</p>
 
-<p>Possuo conhecimento em HTML5, CSS3 (SASS), JavaScript (ES6+) e React, aplicando essas tecnologias na prática em projetos presentes no meu portfólio. Atualmente, estou ampliando minhas habilidades estudando Jest (testes unitários), Docker, TypeScript, TailwindCSS e Next.js, buscando evoluir como desenvolvedor e acompanhar as demandas do mercado.</p>
+<p>Desde 2018, venho desenvolvendo projetos pessoais e acadêmicos que me permitem aplicar, na prática, conhecimentos em HTML5, CSS3 (SASS), JavaScript (ES6+) e React, além de fortalecer conceitos como componentização, consumo de APIs REST, responsividade e organização de código. Essas experiências podem ser conferidas no meu portfólio.</p>
+
+<p>Acredito no aprendizado contínuo como parte essencial da carreira em tecnologia. Atualmente, estou aprofundando meus conhecimentos em TypeScript, Next.js, Jest, Docker e TailwindCSS, buscando escrever aplicações cada vez mais escaláveis, performáticas e alinhadas às boas práticas de desenvolvimento.</p>
 <br>
 
 
