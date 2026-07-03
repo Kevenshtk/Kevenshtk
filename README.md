@@ -1,13 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&repeat=false&width=435&lines=Ol%C3%A1+sou+Keven%2C+Desenvolvedor+Web.)](https://git.io/typing-svg)
 
 <h3>Sobre</h3>
-<p>Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Lins e formado como Técnico em Informática pela Etec Lins. Tenho direcionado minha trajetória para o desenvolvimento Front-End, buscando criar interfaces modernas, responsivas e intuitivas que proporcionem uma boa experiência ao usuário.</p>
+<p>Estudante de Análise e Desenvolvimento de Sistemas na Fatec e 
+formado como Técnico em Informática pela Etec.</p>
 
-<p>Desde 2018, venho desenvolvendo projetos pessoais e acadêmicos que me permitem aplicar, na prática, conhecimentos em HTML5, CSS3 (SASS), JavaScript (ES6+) e React, além de fortalecer conceitos como componentização, consumo de APIs REST, responsividade e organização de código. Essas experiências podem ser conferidas no meu portfólio.</p>
+<p>Desde 2018 venho construindo minha trajetória no desenvolvimento
+web por meio de projetos pessoais e acadêmicos, aplicando na
+prática tecnologias como React, Next.js, TypeScript, JavaScript
+e Tailwind CSS. Tenho experiência no desenvolvimento de
+interfaces responsivas, componentização, consumo de APIs REST e
+boas práticas de organização de código.</p>
 
-<p>Acredito no aprendizado contínuo como parte essencial da carreira em tecnologia. Atualmente, estou aprofundando meus conhecimentos em TypeScript, Next.js, Jest, Docker e TailwindCSS, buscando escrever aplicações cada vez mais escaláveis, performáticas e alinhadas às boas práticas de desenvolvimento.</p>
+<p>Atualmente, continuo aprimorando meus conhecimentos em Jest e
+React Testing Library para testes de aplicações, além de Docker,
+buscando desenvolver aplicações cada vez mais escaláveis,
+performáticas e de fácil manutenção..</p>
 <br>
-
 
 <section>
   <h2># Atividade</h2>
@@ -19,14 +27,17 @@
     <div align="left">
       <br>
       <h3>Projetos:</h3>
-      <a href="https://github.com/Kevenshtk/Portfolio" target="_blank">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Portfolio&theme=tokyonight&hide_border=true">
+      <a href="https://github.com/Kevenshtk/Cobranca" target="_blank">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Cobranca&theme=tokyonight&hide_border=true">
         </a>
       <a href="https://github.com/Kevenshtk/Pokedex" target="_blank">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Pokedex&theme=tokyonight&hide_border=true">
         </a>
       <a href="https://github.com/Kevenshtk/Electrum" target="_blank">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Electrum&theme=tokyonight&hide_border=true">
+        </a>
+      <a href="https://github.com/Kevenshtk/Portfolio" target="_blank">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Kevenshtk&repo=Portfolio&theme=tokyonight&hide_border=true">
         </a>
         <h4>Acadêmicos:</h4>
               <a href="https://github.com/Kevenshtk/cronicas-de-calcularia" target="_blank">
@@ -44,7 +55,6 @@
       
 <br>
 
-
 <section>
   <h2># Tecnologias e Ferramentas</h2>
   
@@ -59,7 +69,6 @@
     </div>
   </div>
 </section>
-
 
 <section>
   <h2># Contatos</h2>
